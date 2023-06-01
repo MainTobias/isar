@@ -20,7 +20,7 @@ features:
   - title: 💃 Tipeado estático
     details: Las consultas de Isar son tipeadas estáticamente y verificadas en tiempo de compilación. No hay necesidad de preocuparse por errores en tiempo de ejecución.
   - title: 📱 Multiplataforma
-    details: Soporte completo para iOS, Android, Desktop, WEB!
+    details: Soporte completo para iOS, Android, Desktop!
   - title: ⏱ Asíncrona
     details: Isar incluye operaciones de consulta en paralelo y soporte multi-isolate.
   - title: 🦄 Código abierto
